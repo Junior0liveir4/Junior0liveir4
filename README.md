@@ -61,7 +61,3 @@
 
 📧 Email: [junior.gui.oliveira@gmail.com](mailto:junior.gui.oliveira@gmail.com)  
 🐍 Repositórios em destaque abaixo 👇
-
----
-
-![snake gif](https://github.com/Junior0liveir4/Junior0liveir4/blob/output/github-contribution-grid-snake.svg)
