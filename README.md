@@ -65,4 +65,3 @@
 ---
 
 ![snake gif](https://github.com/Junior0liveir4/Junior0liveir4/blob/output/github-contribution-grid-snake.svg)
-
