@@ -7,8 +7,8 @@
 </p>
 
 ---
-![I love chocolate](https://img.shields.io/badge/I%20💖%20Chocolate-%23d2691e?style=flat&logo=Godiva&logoColor=white)
-
+![Open to collaborate](https://img.shields.io/badge/-Open%20to%20collaborate-brightgreen)
+![Estudando Visão Computacional](https://img.shields.io/badge/Estudando-Vis%C3%A3o%20Computacional-blueviolet?style=flat)
 ### 🧠 Sobre mim
 
 🎓 Estudante de Engenharia Elétrica (6º período) no IFES - Campus Guarapari  
