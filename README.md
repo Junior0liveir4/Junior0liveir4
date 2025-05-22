@@ -57,7 +57,7 @@
 
 ---
 
-### 📬 Vamos conversar?
+### 📬 Contato
 
 📧 Email: [junior.gui.oliveira@gmail.com](mailto:junior.gui.oliveira@gmail.com)  
 🐍 Repositórios em destaque abaixo 👇
