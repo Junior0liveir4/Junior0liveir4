@@ -1,6 +1,5 @@
-<h1 align="center">Fala aí, eu sou o Junior 👨‍💻</h1>
-
 ![Visualizações no perfil](https://komarev.com/ghpvc/?username=Junior0liveir4&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat)
+<h1 align="center">Fala aí, eu sou o Junior 👨‍💻</h1>
 
 <p align="center">
   Eng. Eletricista em formação • Apaixonado por código, automação e chocolate 🍫<br>
@@ -8,6 +7,7 @@
 </p>
 
 ---
+![I love chocolate](https://img.shields.io/badge/I%20💖%20Chocolate-%23d2691e?style=flat&logo=Godiva&logoColor=white)
 
 ### 🧠 Sobre mim
 
