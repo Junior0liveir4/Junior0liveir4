@@ -1,4 +1,6 @@
-<h1 align="center">Fala aí, eu sou o Junior 👨‍💻🍫</h1>
+<h1 align="center">Fala aí, eu sou o Junior 👨‍💻</h1>
+
+![Visualizações no perfil](https://komarev.com/ghpvc/?username=Junior0liveir4&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat)
 
 <p align="center">
   Eng. Eletricista em formação • Apaixonado por código, automação e chocolate 🍫<br>
@@ -58,7 +60,6 @@
 ### 📬 Vamos conversar?
 
 📧 Email: [junior.gui.oliveira@gmail.com](mailto:junior.gui.oliveira@gmail.com)  
-💼 LinkedIn: *(adicione se quiser)*  
 🐍 Repositórios em destaque abaixo 👇
 
 ---
