@@ -1,4 +1,5 @@
 ![Visualizações no perfil](https://komarev.com/ghpvc/?username=Junior0liveir4&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat)
+![Open to collaborate](https://img.shields.io/badge/-Open%20to%20collaborate-brightgreen)
 <h1 align="center">Fala aí, eu sou o Junior 👨‍💻</h1>
 
 <p align="center">
@@ -7,8 +8,7 @@
 </p>
 
 ---
-![Open to collaborate](https://img.shields.io/badge/-Open%20to%20collaborate-brightgreen)
-![Estudando Visão Computacional](https://img.shields.io/badge/Estudando-Vis%C3%A3o%20Computacional-blueviolet?style=flat)
+
 ### 🧠 Sobre mim
 
 🎓 Estudante de Engenharia Elétrica (6º período) no IFES - Campus Guarapari  
